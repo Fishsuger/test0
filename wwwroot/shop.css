@@ -1,0 +1,42 @@
+﻿shop {
+    display: block;
+    font-family: "微软雅黑", sans-serif;
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+product {
+    display: block;
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    background-color: #fff;
+}
+
+id {
+    display: block;
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+name {
+    display: block;
+    color: green;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+leibie {
+    display: block;
+    color: blue;
+    font-style: italic;
+    margin-top: 3px;
+}
+
+price {
+    display: block;
+    color: orange;
+    font-size: 14px;
+    margin-top: 3px;
+}

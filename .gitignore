@@ -1,0 +1,6 @@
+# Visual Studio ÁÙÊ±ÎÄ¼ş
+.vs/
+bin/
+obj/
+*.user
+*.csproj.user

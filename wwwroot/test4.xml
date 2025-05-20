@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="test4.xsl"?>
+<shop>
+  <product>
+    <id>00001</id>
+    <name>铅笔</name>
+    <leibie>文具</leibie>
+    <price>1</price>
+  </product>
+  <product>
+    <id>00002</id>
+    <name>裤子</name>
+    <leibie>服装</leibie>
+    <price>77</price>
+  </product>
+  <product>
+    <id>00003</id>
+    <name>帽子</name>
+    <leibie>服装</leibie>
+    <price>55</price>
+  </product>
+  <product>
+    <id>00004</id>
+    <name>牙膏</name>
+    <leibie>生活用品</leibie>
+    <price>6.5</price>
+  </product>
+  <product>
+    <id>00005</id>
+    <name>牙刷</name>
+    <leibie>生活用品</leibie>
+    <price>2.5</price>
+  </product>
+</shop>
